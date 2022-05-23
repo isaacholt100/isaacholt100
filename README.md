@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a mathematics student at Durham University, and I love to code in my free time. I am currently learning Go and Flutter. My main coding project at the moment is a [Rust library](https://github.com/isaacholt100/bint) that defines arbitrarily big integer types that behave exactly like the primitive integer types.
+I am a mathematics student at Durham University, and I love to code in my free time. I am currently learning Go and Flutter. My main coding project at the moment is a Rust library that defines arbitrarily big integer types that behave exactly like the primitive integer types.
 
 Contact info:
 - LinkedIn: [https://www.linkedin.com/in/isaacholt100](https://www.linkedin.com/in/isaacholt100)
