@@ -2,7 +2,7 @@
 
 I am a mathematics student at Durham University, and I love to code in my free time. I am currently learning Go and Flutter. My main coding project at the moment is a Rust library that defines arbitrarily big integer types that behave exactly like the primitive integer types: [![bint](https://github.com/isaacholt100/bint)]((https://github.com/isaacholt100/bint))
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacholt100&show_icons=true&theme=dark)](https://github.com/isaacholt100)
+[https://github.com/isaacholt100](https://github-readme-stats.vercel.app/api?username=isaacholt100&show_icons=true&theme=dark)
 
 <!--
 **isaacholt100/isaacholt100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
