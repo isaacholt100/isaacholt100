@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a mathematics student at Durham University, and I love to code in my free time. I have published a [Rust library](https://docs.rs/bnum/latest/bnum/) that defines arbitrarily big integer types that extend the functionality of Rust's primitive integer types.
-
 Contact info:
 - LinkedIn: [https://www.linkedin.com/in/isaacholt100](https://www.linkedin.com/in/isaacholt100)
 
